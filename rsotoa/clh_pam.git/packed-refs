@@ -1,7 +1,0 @@
-# pack-refs with: peeled
-c679af7a36e35e5894c9cf077f58ac5a55559af1 refs/heads/dependabot/maven/com.thoughtworks.xstream-xstream-1.4.10-java7
-fc9f7c413efe235901c9d3586b04d834f4c85dea refs/heads/dependabot/maven/junit-junit-4.13.1
-ae799fd20fdd2261e8946135335afa8318becdb3 refs/heads/master
-c679af7a36e35e5894c9cf077f58ac5a55559af1 refs/remotes/origin/dependabot/maven/com.thoughtworks.xstream-xstream-1.4.10-java7
-fc9f7c413efe235901c9d3586b04d834f4c85dea refs/remotes/origin/dependabot/maven/junit-junit-4.13.1
-1ca99703a63413ff2463fb9178ca6db85bf9be65 refs/remotes/origin/master
